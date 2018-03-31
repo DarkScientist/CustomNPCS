@@ -1,0 +1,8 @@
+name: PCustomNPCs
+version: 1.0
+author: DarkScientist_
+main: fr.darkscientist.customnpcs.Main
+commands:
+  npc:
+    description: Fait apparaitre un pnj. /npc <nom du pnj>
+    permission: npc.spawn
